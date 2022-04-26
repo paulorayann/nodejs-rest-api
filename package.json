@@ -14,7 +14,7 @@
   "author": "Paulo Rayann",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paulorayann/nodejs-restAPI-petshop.git/issues"
+    "url": "https://github.com/paulorayann/nodejs-restAPI-petshop/issues"
   },
   "homepage": "https://github.com/paulorayann/nodejs-restAPI-petshop.git#readme",
   "dependencies": {

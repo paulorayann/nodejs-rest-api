@@ -10,4 +10,4 @@
 
 
 ## Creation of a Pet Shop appointment REST API using Node.js, Express and MySQL
-### Used Libraries: Nodemon, Consign, Express.js, BodyParser e MomentJS
+### Used Libraries: Nodemon, Consign, Express.js, BodyParser and MomentJS

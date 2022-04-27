@@ -1,4 +1,4 @@
-# nodejs-restAPI :man_technologist:
+# nodejs-rest-api :man_technologist:
 
 ### Criação de uma API de agendamento de Pet Shop seguindo o padrão REST utilizando Node.js, Express e MySQL
 ### As bibliotecas utilizadas foram: Nodemon, Consign, Express.js, BodyParser e MomentJS
